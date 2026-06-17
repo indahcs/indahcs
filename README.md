@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Indah%20Cahyani%20Styoningrum&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Indah%20Styoningrum&fontSize=32&fontColor=ffffff" />
 </p>
 
 <h3 align="center">Backend Developer | Cloud Enthusiast | Go (Gin) & PHP Systems Engineer</h3>
 
 <p align="center">
-📍 Toronto, ON • 📧 indahcahyanisasien@gmail.com • 📱 416-823-5104
+📍 Toronto, ON
 </p>
 
 ---
