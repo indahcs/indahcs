@@ -1,40 +1,61 @@
-<!-- HEADER ANIMATION -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Indah%20CS&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Indah%20Cahyani%20Styoningrum&fontSize=32&fontColor=ffffff" />
 </p>
 
-<h3 align="center">Backend Developer | Go (Gin) | Full-Stack Learner</h3>
+<h3 align="center">Backend Developer | Cloud Enthusiast | Go (Gin) & PHP Systems Engineer</h3>
+
+<p align="center">
+📍 Toronto, ON • 📧 indahcahyanisasien@gmail.com • 📱 416-823-5104
+</p>
 
 ---
 
 ## 👋 About Me
 
-I'm a developer focused on building **clean backend systems** and scalable APIs.  
-Currently working with **Go, Gin, PostgreSQL, and modern web stacks**.
+I’m a **Software & Cloud-focused developer** with experience building full-stack systems, backend APIs, and production business applications.
 
-- 🔭 Building backend projects (Go + Clean Architecture)
-- 🌱 Learning system design & distributed systems
-- 💡 Interested in backend engineering & cloud systems
-- 🎯 Goal: Become a strong backend / full-stack engineer
+I specialize in:
+- Backend development (Go, PHP, Node.js)
+- Cloud architecture (AWS, Azure, Terraform)
+- Database design & system reliability
+- Building real-world business applications
+
+I enjoy turning business problems into scalable technical systems.
 
 ---
 
 ## ⚒️ Tech Stack
 
-### Backend
+### Backend & Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### Tools & Dev Practices
+Git • GitHub • CI/CD • Snyk • REST APIs • Docker Concepts • SDLC • Documentation
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/indahcs/go-gin-api-boilerplate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=indahcs&repo=go-gin-api-boilerplate&theme=tokyonight" />
+</a>
+
+</p>
 
 ---
 
@@ -50,25 +71,30 @@ Currently working with **Go, Gin, PostgreSQL, and modern web stacks**.
 
 ---
 
-## 🚀 Current Projects
+## 🐍 Contribution Snake
 
-- 🏗️ Go Gin Boilerplate (Clean Architecture)
-- 📦 Warehouse Management API
-- 🌐 Fullstack Next.js Dashboard
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/indahcs">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://github.com/indahcs/indahcs/blob/output/snake.svg" />
 </p>
 
 ---
 
-<!-- FOOTER ANIMATION -->
+## 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 📫 Contact
+
+- 📧 Email: indahcahyanisasien@gmail.com  
+- 📍 Toronto, ON  
+- 💼 LinkedIn: linkedin.com/in/indahcs  
+- 💻 GitHub: https://github.com/indahcs
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
 </p>
