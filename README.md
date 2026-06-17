@@ -74,15 +74,8 @@ Git • GitHub • CI/CD • Snyk • REST APIs • Docker Concepts • SDLC •
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/indahcs/indahcs/blob/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/indahcs/indahcs/output/snake.svg" />
 </p>
-
----
-
-## 📊 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
