@@ -1,9 +1,7 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Indah%20Styoningrum&fontSize=32&fontColor=ffffff" />
-</p>
 
-<h3 align="center">Backend Developer | Cloud Enthusiast | Go (Gin) & PHP Systems Engineer</h3>
+<h1 align="center">Indah Styoningrum</h1>
+<p align="center">Backend Developer | Cloud Enthusiast | Go (Gin) & PHP Systems Engineer</p>
 
 <p align="center">
 📍 Toronto, ON
@@ -47,34 +45,11 @@ Git • GitHub • CI/CD • Snyk • REST APIs • Docker Concepts • SDLC •
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/indahcs/go-gin-api-boilerplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=indahcs&repo=go-gin-api-boilerplate&theme=tokyonight" />
-</a>
-
-</p>
-
----
-
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=indahcs&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indahcs&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/indahcs/indahcs/output/snake.svg" />
 </p>
 
 ---
@@ -83,11 +58,5 @@ Git • GitHub • CI/CD • Snyk • REST APIs • Docker Concepts • SDLC •
 
 - 📧 Email: indahcahyanisasien@gmail.com  
 - 📍 Toronto, ON  
-- 💼 LinkedIn: linkedin.com/in/indahcs  
+- 💼 LinkedIn: https://linkedin.com/in/indahcs  
 - 💻 GitHub: https://github.com/indahcs
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
-</p>
