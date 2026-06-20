@@ -47,9 +47,9 @@ Git • GitHub • CI/CD • Snyk • REST APIs • Docker Concepts • SDLC •
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=indahcs&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indahcs&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indahcs&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indahcs&theme=tokyonight" height="180em" />
 </p>
 
 ---
